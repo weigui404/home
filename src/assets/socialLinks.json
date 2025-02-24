@@ -22,11 +22,5 @@
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "mailto:weigui@starsky.love"
-  },
-  {
-    "name": "微信",
-    "icon": "/images/icon/telegram.png",
-    "tip": "联系方式 ~",
-    "url": "https://u.wechat.com/MFIimKEIN6cxa7JomdnpeJU"
   }
 ]
